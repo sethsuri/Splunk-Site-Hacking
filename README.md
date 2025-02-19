@@ -1,4 +1,4 @@
-# Focused Cybersecurity Projects
+# Focused Cybersecurity Projects for Commonwealth Bank
 
 This repository highlights specific cybersecurity skills demonstrated through practical projects, including Splunk dashboard creation, security awareness design, penetration testing, and incident response scenarios.
 
