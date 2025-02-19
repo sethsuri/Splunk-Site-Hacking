@@ -1,19 +1,16 @@
 # Focused Cybersecurity Projects for Commonwealth Bank
+![image](https://github.com/user-attachments/assets/219a7a85-322a-4a05-92b1-d0cbd42a0dd6)
 
 This repository highlights specific cybersecurity skills demonstrated through practical projects, including Splunk dashboard creation, security awareness design, penetration testing, and incident response scenarios.
 
 ## Contents
 
 * **Splunk:** Demonstrates proficiency in using Splunk for data visualization and fraud detection.
-    * [Splunk/README.md](Splunk/README.md)
+    * [Splunk/README.md](https://drive.google.com/file/d/1tILzKUvBl1LWAEgJwn2MOs4mCdRYhNFo/view?usp=drive_link)
 * **Presentations:** Showcases communication skills and cybersecurity knowledge through presentation materials.
-    * [Presentations/README.md](Presentations/README.md)
+    * [Presentations/README.md](https://drive.google.com/file/d/19zuTP62Wh44wXNFSTkFQ7MIJSYnpoYV8/view?usp=sharing)
 * **HackThisSite:** Illustrates penetration testing and web application security assessment skills.
-    * [HackThisSite/README.md](HackThisSite/README.md)
-* **SecurityAwareness:** Displays ability to create effective security awareness materials.
-    * [SecurityAwareness/README.md](SecurityAwareness/README.md)
-* **ResumeSnippets:** Provides a resume snippet from the Commonwealth Bank Cybersecurity Job Simulation on Forage, highlighting relevant skills.
-    * [ResumeSnippets/Forage_CommonwealthBank_Snippet.md](ResumeSnippets/Forage_CommonwealthBank_Snippet.md)
+    * [HackThisSite/README.md](https://drive.google.com/file/d/1flk58mjO7pXdaj59Xxb4pPbBnlQ82G6p/view?usp=sharing)
 
 ## Key Highlights
 
